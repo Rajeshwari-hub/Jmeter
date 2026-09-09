@@ -110,7 +110,7 @@ findstr /?
 If help text appears, start JMeter again:
 
 ```cmd
-cd C:\Users\prade\OneDrive\Documents\Automation\jmeter\apache-jmeter-5.6.3\bin
+cd C:\Users\djwqkj\OneDrive\Documents\Automation\jmeter\apache-jmeter-5.6.3\bin
 jmeter.bat
 ```
 
